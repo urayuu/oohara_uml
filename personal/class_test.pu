@@ -1,0 +1,13 @@
+
+
+class b extends a {
+    test
+}
+
+class c extends a {
+    test
+}
+
+class d extends a {
+    test
+}
